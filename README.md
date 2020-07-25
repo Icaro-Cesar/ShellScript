@@ -1,1 +1,1 @@
-# ShellScript
+# That repository is dedicated to ShellScripts
