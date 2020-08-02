@@ -7,8 +7,7 @@
 #	Autor: Ícaro César
 #
 #	Description: This script fix the dependences issues of the Packet Tracer and
-#	install the application. Any questions, contact my email:
-#	icarocesar630@gmail.com
+#	install the application. Any questions, contact me.
 #
 #######################################################################################
 
