@@ -1,15 +1,15 @@
 #!/bin/bash
 
 #######################################################################################
-#										      										  #
-#		Script to Install Packet Tracer 7.3				      						  #
-#										      										  #
-#	Autor: Ícaro César							      								  #
-#										      										  #
-#	Description: This script fix the dependences issues of the Packet Tracer and  	  #
-#	install the application. Any questions, contact my email:						  #
-#	icarocesar630@gmail.com				      										  #
-#										      										  #
+#
+#		Script to Install Packet Tracer 7.3
+#
+#	Autor: Ícaro César
+#
+#	Description: This script fix the dependences issues of the Packet Tracer and
+#	install the application. Any questions, contact my email:
+#	icarocesar630@gmail.com
+#
 #######################################################################################
 
 pt_check() {
